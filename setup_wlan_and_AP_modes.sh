@@ -626,7 +626,7 @@ EOF
 [Match]
 Name=ap0
 [Network]
-Address=192.168.1.40/24
+Address=192.168.0.19/24
 DHCPServer=yes
 [DHCPServer]
 DNS=84.200.69.80 84.200.70.40
